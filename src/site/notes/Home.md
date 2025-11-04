@@ -5,6 +5,6 @@
 # テスト
 テスト
 
-[[Contents/0_環境構築\|0_環境構築]]
+[[Contents/環境構築\|環境構築]]
 
 [[Contents/Splines\|Splines]]
